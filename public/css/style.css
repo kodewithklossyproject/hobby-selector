@@ -1,0 +1,127 @@
+@import 'https://fonts.googleapis.com/css?family=Prociono';
+#start_w {
+  margin-top: -180px;
+ font-family: 'Prociono', serif;
+
+}
+
+#bouncer {
+  margin-top: -100px;
+}
+
+#subtitle {
+text-align: center
+}
+
+h2 {
+  font-family: 'Prociono', serif;
+}
+
+#white-title {
+    font-family: 'Prociono', serif;
+    color:white;
+    font-size:500px;
+  }
+
+h1 span{
+  color:white;
+  background:gray;
+  padding:10px;
+  width:100%;
+   background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+    background: rgba(204, 204, 204, 0.5);
+}
+
+
+a {
+  color: #9cce84;
+}
+
+.carousel {
+  position: relative;
+}
+.carousel article.loading {
+  border:3px solid black;
+}
+
+#pic_1{
+  position:relative;
+  margin-right: 50px;
+  margin-left: 800px
+    -webkit-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+}
+#pic_2{
+     position: relative;
+      margin-right:65px;
+      margin-left: 90px;
+  -webkit-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+}
+#pic_3 {
+  position: relative;
+  margin-right:90px;
+  margin-left:90px;
+-webkit-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+}
+
+.together {
+  position:relative;
+  left:140px
+}
+
+/* #womp {
+  background-color:#9cce84;
+  height: 100%;
+
+
+} */
+/*
+#question_1{
+  position: relative;
+  left: 500px;
+  display:inline;
+  background-color:blue;
+}
+#question_2 {
+  position: relative;
+  left: 500px;
+}
+
+#question_3 {
+  position: relative;
+  left: 500px;
+} */
+
+#my-form {
+  text-align: center;
+  margin-right: 180px;
+  display: block;
+  background-image: url("http://sr.photos2.fotosearch.com/bthumb/CSP/CSP990/k11061406.jpg");
+  background-color:lightblue;
+  padding: 3%;
+  border-radius: 5%;
+  border: 2px solid;
+  width: 70%;
+}
+
+#my-form section div label, #my-form section div input {
+  display: inline;
+}
+
+#my-form section div:hover {
+  background-color:#efefef;
+  margin-left: 100px;
+  margin-right:100px;
+  border-radius: 3px;
+  background: rgba (255, 246, 222 0.5);
+}
+
+#eggs {
+  margin-right: 150px;
+
+}

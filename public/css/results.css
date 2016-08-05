@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Jacques+Francois+Shadow);
+
+
+body {
+  text-align : center;
+  font-size : 200%;
+  background-image: url(http://mario5.florian-rappl.de/Content/backgrounds/05.png)
+}
+
+h1{
+  text-align : center;
+  font-family: 'Jacques Francois Shadow', cursive;
+  color: black;
+}
+
+
+ul{
+  text-align : center;
+}
+
+.container{
+  display: block;
+  margin-top: 25px;
+}
+
+#result-thang {
+  font-size : 4.25em;
+}
